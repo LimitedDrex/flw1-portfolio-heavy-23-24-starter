@@ -9,8 +9,8 @@
 /* Adjust the spacing of your page. */
 
 /* Adjust the positioning of your page.  */
-
-
+.p
+ 
 * {
     box-sizing: border-box;
   }
@@ -24,7 +24,7 @@
   .heading{
     background-color: #373738;
     color: #efeff2;
-    padding: 1em;
+    padding: 1px;
   }
   
   .main {
